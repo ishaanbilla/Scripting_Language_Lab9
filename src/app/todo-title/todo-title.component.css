@@ -1,0 +1,7 @@
+.toolbar {
+    justify-content: center;
+}
+.mat-toolbar.mat-primary {
+    background: #25274d;
+    color: #fff;
+  }
